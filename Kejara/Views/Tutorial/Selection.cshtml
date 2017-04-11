@@ -1,0 +1,30 @@
+﻿@model Kejara.Models.Tutorial
+
+@{
+    ViewBag.Title = "Selection";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Selection</h2>
+
+<fieldset>
+    <legend>Tutorial</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Auteur)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Auteur)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Titre)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Titre)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

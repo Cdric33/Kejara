@@ -1,0 +1,189 @@
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Kejara.Tests.dll.config
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Kejara.Tests.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Kejara.Tests.pdb
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Kejara.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.Edm.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.OData.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Spatial.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Helpers.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.OData.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Mvc.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Razor.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\EntityFramework.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Optimization.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Kejara.pdb
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Helpers.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Mvc.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Razor.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.OData.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.Edm.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.OData.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\System.Spatial.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\EntityFramework.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Helpers.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Http.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Http.WebHost.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Razor.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Http.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\de\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\es\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\it\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ja\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ko\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\ru\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\EntityFramework.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Optimization.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\bin\Debug\fr\Microsoft.Web.WebPages.OAuth.resources.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\obj\Debug\Kejara.Tests.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\obj\Debug\Kejara.Tests.dll
+D:\Documents\visual studio 2013\Projects\Kejara\Kejara.Tests\obj\Debug\Kejara.Tests.pdb
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Kejara.Tests.dll.config
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Kejara.Tests.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Kejara.Tests.pdb
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Kejara.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Spatial.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.OData.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Owin.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Kejara.pdb
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Http.OData.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Spatial.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Helpers.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Mvc.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Razor.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.WebPages.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Http.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Web.Http.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\fr\EntityFramework.resources.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\obj\Debug\Kejara.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\obj\Debug\Kejara.Tests.dll
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\obj\Debug\Kejara.Tests.pdb
+C:\Users\Ninou\Documents\GitHub\Kejara\Kejara.Tests\bin\Debug\System.Web.Optimization.xml
